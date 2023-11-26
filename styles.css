@@ -1,0 +1,15 @@
+/* Add your styles here */
+.channel-container {
+    border: 1px solid #ccc;
+    margin: 10px;
+    padding: 10px;
+}
+
+h2,
+p {
+    margin: 0;
+}
+
+img {
+    max-width: 100%;
+}
